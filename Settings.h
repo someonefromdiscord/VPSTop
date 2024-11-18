@@ -145,6 +145,8 @@ void Settings_enableReadonly(void);
 
 bool Settings_isReadonly(void);
 
+bool IsNotHtop(vois);
+
 void Settings_setHeaderLayout(Settings* this, HeaderLayout hLayout);
 
 #endif
